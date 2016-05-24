@@ -27,7 +27,8 @@ $ npm install -g json-server
     }
     
 ---creat json server
-      $ npm install -g json-server
+
+    $ npm install -g json-server
       
 ---Start JSON Server
 

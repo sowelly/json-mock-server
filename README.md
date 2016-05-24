@@ -10,7 +10,7 @@ $ npm install -g json-server
 
 
 
--creat db.json
+---creat db.json
 
     {
       "users": [
@@ -26,9 +26,9 @@ $ npm install -g json-server
       ]
     }
     
--creat json server
+---creat json server
       $ npm install -g json-server
       
--Start JSON Server
+---Start JSON Server
 
-$ json-server --watch db.json
+    $ json-server --watch db.json
